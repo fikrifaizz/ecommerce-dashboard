@@ -33,7 +33,7 @@ Alat bantu keputusan bagi tim Sales. User dapat mengubah variabel "Kenaikan Harg
 ### 3. Advanced SQL Logic
 Analisis inti dilakukan di Database (PostgreSQL) menggunakan teknik Complex Joins dan Aggregation untuk memvalidasi performa kategori produk.
 
-![SQL Logic](images/sql_rfm_snippet.png)
+![SQL Logic](images/sql_rfm_snippet.jpg)
 *(Snippet query SQL yang digunakan untuk mengidentifikasi Top Categories dan Volume Penjualan)*
 
 ---
