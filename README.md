@@ -56,4 +56,5 @@ Berdasarkan analisis data historis (Total 96,478 Pesanan):
 ---
 
 **Author:** Fikri Faiz Zulfadhli
+
 *Data Analyst | SQL | Python | Visualization*
